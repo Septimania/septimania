@@ -1,4 +1,6 @@
 # Multilanguage README Pattern
+# Multilanguage README Pattern
+[![fr](https://fr.wikipedia.org/wiki/Drapeau_de_la_France#/media/Fichier:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974).svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 [![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 [![oc](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
 
