@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 [![oc](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
 
-<h1 align="center" style="color:#C40026;"> SEPTIMANIA </h1>
+<h1 align="center" style="color:red;"> SEPTIMANIA </h1>
 
 <p style="margin: 15px;" align="center">
 <h2 align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
