@@ -11,6 +11,8 @@
 
 <h1 align="center" style="font-weight: bold; background-color: #C40026;">SEPTIMANIA</h1>
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
 
