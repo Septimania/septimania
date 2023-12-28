@@ -1,7 +1,6 @@
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
-  [![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-  [![oc](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
+  <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://fr.wikipedia.org/wiki/Drapeau_de_l'Occitanie#/media/Fichier:Flag_of_Occitania.svg" alt="OC" height="32px"></a>
 </a>p>
 
 <h1 align="center" style="color:red;"> SEPTIMANIA </h1>
