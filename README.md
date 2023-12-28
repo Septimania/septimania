@@ -17,7 +17,7 @@
 <br />
 <br />
 <p style="margin: 15px;" align="center">
-  <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png" width="512px">
+  <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
 <h1 align="center" style="font-weight: black; background-color: #C40026;">SEPTIMANIA</h1>
