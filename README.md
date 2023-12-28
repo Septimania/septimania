@@ -11,6 +11,8 @@
 
 <span style="color: #C40026">SEPTIMANIA</span>
 
+- ![#C40026](SEPTIMANIA) `#C40026`
+
 <p style="margin: 15px;" align="center">
 <h2 align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
 
