@@ -9,7 +9,7 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_NL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png" alt="NL" height="32px"></a>
 </p>
 
-<h1 align="center" style="color: #C40026; font-weight: bold;">SEPTIMANIA</h1>
+<h1 align="center" style="font-weight: bold; background-color: #C40026;">SEPTIMANIA</h1>
 
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
