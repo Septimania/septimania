@@ -1,7 +1,7 @@
 <head>
   <style>
   h1{
-      color:#C40026;
+      color:red;
       font-weight: bold;
   }
   </style>
