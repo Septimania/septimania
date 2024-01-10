@@ -76,3 +76,12 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://toppng.com/uploads/preview/mari-logo-rgb-foundry-mari-logo-1156286701534oyfve948.png" alt="mari" width="40" height="40"/>
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
+<br/>
+<br/>
+<br/>
+<p align="center"> 
+Grâce aux ordinateurs portales LANGUEDOC-NITRO et SEPTUFMANIE, sans parler du NAS GARONNE; je peux m'étendre dans de nombreux domaines pour illuminer le Languedoc-Roussillon
+</p>
+<p align="center"> 
+<img src="https://drive.google.com/file/d/1BzHX-D4VD-BXgC6S11Z6vdGwgQ7odfC8/view?usp=drive_link" alt="sql server" width="1280" height="720"/>
+</p>
