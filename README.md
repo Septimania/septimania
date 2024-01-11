@@ -82,5 +82,3 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <p align="center"> 
 Grâce aux ordinateurs portales LANGUEDOC-NITRO et SEPTUFMANIE, sans parler du NAS GARONNE; je peux m'étendre dans de nombreux domaines pour illuminer le Languedoc-Roussillon
 </p>
-
-![Texte alternatif](https://i.imgur.com/KzyqhUl.gifv)
