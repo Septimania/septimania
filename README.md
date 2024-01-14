@@ -83,7 +83,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
   <br>
   Voici les liens vers leurs sites :
   <br>
-  <div style="text-align:center;">
+  <div style="text-align:center; display: flex; justify-content: center; align-items: center;">
     <table>
       <tbody>
         <tr>
