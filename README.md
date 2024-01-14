@@ -1,4 +1,4 @@
-![image](https://github.com/Septimania/septimania/assets/154997503/197c3d8b-d63d-4ab6-9cd6-d20c6d35bd33)![image](https://github.com/Septimania/septimania/assets/154997503/b9522d9f-3961-47e7-ae2f-6c4412634b13)<p style="margin: 15px;" align="center">
+<p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_EN.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="EN" height="32px"></a>
