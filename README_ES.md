@@ -47,17 +47,18 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ztq4WCf8G42MvCnJpdFKRk__uLdm3m9U11TfFRlfWbBqTqVEHIb8jhmiOwbDQG_DSuM&usqp=CAU" alt="premiere pro" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adobe_After_Effects_CC_icon.png/492px-Adobe_After_Effects_CC_icon.png" alt="after effects" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/13_Fuse_Adobe_logo_logos-512.png" alt="fuse" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Adobe_Muse_CC_icon.svg/1050px-Adobe_Muse_CC_icon.svg.png" alt="muse" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/313/PNG/512/Prezi_34270.png" alt="prezi" width="40" height="40"/> 
 </p>
 
 <p align="center"> 
-<img src="https://e7.pngegg.com/pngimages/801/423/png-clipart-microsoft-office-2010-microsoft-word-computer-icons-microsoft-blue-text-thumbnail.png" alt="word" width="40" height="40"/>
-<img src="https://iconape.com/wp-content/files/bk/353263/png/353263.png" alt="excel" width="40" height="40"/>
-<img src="https://www.symbols.com/images/symbol/3022_power-point-2010-icon.png" alt="power point" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" alt="docs" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/800px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="sheets" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/745px-Google_Slides_logo_%282014-2020%29.svg.png" alt="slides" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" alt="forms" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-One-Note.png" alt="onenote" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/132/456/png-clipart-microsoft-publisher-publisher-2010-microsoft-office-2010-microsoft-excel-microsoft-blue-text-thumbnail.png" alt="publisher" width="40" height="40"/>
+<img src="https://www.gezginler.net/indir/resim-grafik/microsoft-access-2010-runtime-1341560091.png" alt="access" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Project.png" alt="project" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Visio.png" alt="visio" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="40" height="40"/>
+<img src="https://yt3.googleusercontent.com/ytc/AIf8zZSBIHjj646mGBCfoxCZd7VcBCbx1zD3DEBy71qI=s900-c-k-c0x00ffffff-no-rj" alt="fwsim" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" alt="wix" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="unity" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
@@ -77,3 +78,107 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://toppng.com/uploads/preview/mari-logo-rgb-foundry-mari-logo-1156286701534oyfve948.png" alt="mari" width="40" height="40"/>
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
+<p>
+  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  <br>
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <br>
+  Estos son los enlaces a sus sitios web:
+  <br>
+  <div align="center">
+    <table>
+      <tbody>
+        <tr>
+          <td width="180px" align="center" style="text-align:center;">
+            <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
+              <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
+              <br>
+              LANGUEDOC-NITRO
+            </a>
+          </td>
+           <td width="180px" align="center" style="text-align:center;">
+            <a href="https://septufmanie.wixsite.com/septufmanie">
+              <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
+              <br>
+              SEPTUFMANIA
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</p>
+<br/>
+<br/>
+<br/>
+<p>
+  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
+  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
+  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
+  <br>
+  <div align="center">
+    <table>
+      <tbody>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Tipo de programa
+          </td>
+          <td align="center" style="text-align:center;">
+            Programas utilizados localmente
+          </td>
+          <td align="center" style="text-align:center;">
+            Equivalente en línea
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Tratamiento de textos
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Word
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Docs
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Programa para las hojas de cálculo
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Excel
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Sheets
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+           Creador de presentaciones
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft PowerPoint
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Slides
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Editor y cumplimentador de formularios
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Infopath
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Forms
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</p>
+<br/>
+<br/>
+<br/>
