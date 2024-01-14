@@ -46,6 +46,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ztq4WCf8G42MvCnJpdFKRk__uLdm3m9U11TfFRlfWbBqTqVEHIb8jhmiOwbDQG_DSuM&usqp=CAU" alt="premiere pro" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adobe_After_Effects_CC_icon.png/492px-Adobe_After_Effects_CC_icon.png" alt="after effects" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/13_Fuse_Adobe_logo_logos-512.png" alt="fuse" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Adobe_Muse_CC_icon.svg/1050px-Adobe_Muse_CC_icon.svg.png" alt="muse" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/313/PNG/512/Prezi_34270.png" alt="prezi" width="40" height="40"/> 
 </p>
 
