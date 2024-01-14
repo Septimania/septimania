@@ -76,6 +76,9 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://toppng.com/uploads/preview/mari-logo-rgb-foundry-mari-logo-1156286701534oyfve948.png" alt="mari" width="40" height="40"/>
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
+<p>
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+</p>
 <br/>
 <br/>
 <br/>
