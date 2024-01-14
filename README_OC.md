@@ -78,7 +78,7 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gràcias als ordinators portables LANGUEDOC-NITRO e SEPTUFMANIE. Sonque cau parlar del NAS GARONNE que lor fornís un emmagazematge colossal, podem realizar tótas las menas de tàscas en relació a l'informatica.
+  Gràcias als ordinators portables LENGADOC-NITRO e SEPTUFMANIA. Sonque cau parlar del NAS GARONNE que lor fornís un emmagazematge colossal, podem realizar tótas las menas de tàscas en relació a l'informatica.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
   <br>
@@ -92,14 +92,14 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              LANGUEDOC-NITRO
+              LENGADOC-NITRO
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
             <a href="https://septufmanie.wixsite.com/septufmanie">
               <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              SEPTUFMANIE
+              SEPTUFMANIA
             </a>
           </td>
         </tr>
