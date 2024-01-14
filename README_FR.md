@@ -116,8 +116,6 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
   Voici un exemple de logiciels de bureautiques en local et leurs équivalents en ligne : <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
-  Voici les liens vers leurs sites :
-  <br>
   <div align="center">
     <table>
       <tbody>
