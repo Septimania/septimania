@@ -82,7 +82,7 @@ In short, as a developer with a passion for Languedoc-Roussillon, I'm determined
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
   <br>
-  Voici les liens vers leurs sites :
+  Here are the links to their websites:
   <br>
   <div align="center">
     <table>
