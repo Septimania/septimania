@@ -77,7 +77,15 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
+  Grâce aux ordinateurs portables LANGUEDOC-NITRO et SEPTUFMANIE. Sans parler du NAS GARONNE qui leur fournit un stockage colossal, on peut réaliser toutes sortes de tâches en lien avec l'informatique
+  <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <br>
+  Voici les liens vers leurs sites :
+  <br>
+  <div style="color:red;">
+  - <a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>
+  </div>
 </p>
 <br/>
 <br/>
