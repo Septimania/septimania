@@ -165,7 +165,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editeur et remplisseur de formulaires
+            Éditeur et remplisseur de formulaires
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
