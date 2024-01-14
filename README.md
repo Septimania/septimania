@@ -109,3 +109,76 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <br/>
 <br/>
 <br/>
+<p>
+  Savoir faire beaucoup de choses seul c'est bien beau, mail sil ne faut pas oublier que l'union fait la force.<br/>
+  C'est pour cela qu'il est indispensable de maitriser des logiciels de bureautiques installés en local, mais aussi des alternatives qui permettent de travailler en collaboration.<br/>
+  Voici un exemple de logiciels de bureautiques en local et leurs équivalents en ligne : <br/>
+  <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
+  <br>
+  Voici les liens vers leurs sites :
+  <br>
+  <div align="center">
+    <table>
+      <tbody>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Type de logiciel
+          </td>
+          <td align="center" style="text-align:center;">
+            Logiciel utilisé en local
+          </td>
+          <td align="center" style="text-align:center;">
+            Équivalent en ligne
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Traitement de texte
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Word
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Docs
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Tableur
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Excel
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Sheets
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+           Créateur de diaporama
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft PowerPoint
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Slides
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Editeur et remplisseur de formulaires
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft Infopath
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Forms
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</p>
+<br/>
+<br/>
+<br/>
