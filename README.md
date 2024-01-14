@@ -1,4 +1,4 @@
-<p style="margin: 15px;" align="center">
+![image](https://github.com/Septimania/septimania/assets/154997503/197c3d8b-d63d-4ab6-9cd6-d20c6d35bd33)![image](https://github.com/Septimania/septimania/assets/154997503/b9522d9f-3961-47e7-ae2f-6c4412634b13)<p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_EN.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="EN" height="32px"></a>
@@ -50,13 +50,13 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 </p>
 
 <p align="center"> 
-<img src="https://e7.pngegg.com/pngimages/801/423/png-clipart-microsoft-office-2010-microsoft-word-computer-icons-microsoft-blue-text-thumbnail.png" alt="word" width="40" height="40"/>
-<img src="https://iconape.com/wp-content/files/bk/353263/png/353263.png" alt="excel" width="40" height="40"/>
-<img src="https://www.symbols.com/images/symbol/3022_power-point-2010-icon.png" alt="power point" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" alt="docs" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/800px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="sheets" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/745px-Google_Slides_logo_%282014-2020%29.svg.png" alt="slides" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968528.png" alt="forms" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-One-Note.png" alt="onenote" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/132/456/png-clipart-microsoft-publisher-publisher-2010-microsoft-office-2010-microsoft-excel-microsoft-blue-text-thumbnail.png" alt="publisher" width="40" height="40"/>
+<img src="https://www.gezginler.net/indir/resim-grafik/microsoft-access-2010-runtime-1341560091.png" alt="access" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Project.png" alt="project" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Visio.png" alt="visio" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="40" height="40"/>
+<img src="https://yt3.googleusercontent.com/ytc/AIf8zZSBIHjj646mGBCfoxCZd7VcBCbx1zD3DEBy71qI=s900-c-k-c0x00ffffff-no-rj" alt="fwsim" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" alt="wix" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="unity" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
