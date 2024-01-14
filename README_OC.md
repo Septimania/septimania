@@ -78,7 +78,7 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gràcias als ordinators portables LENGADOC-NITRO e SEPTUFMANIA. Sonque cau parlar del NAS GARONNE que lor fornís un emmagazematge colossal, podem realizar tótas las menas de tàscas en relació a l'informatica.
+  Gràcias als ordinators portables LENGADOC-NITRO e SEPTUFMANIA. Sonque cau parlar del NAS GARONA que lor fornís un emmagazematge colossal, podem realizar tótas las menas de tàscas en relació a l'informatica.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
   <br>
