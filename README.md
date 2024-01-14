@@ -87,9 +87,11 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
     <tbody>
       <tr>
         <td style="text-align:center">
-          <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="40" height="40"/>
-          <br>
-          LANGUEDOC-NITRO
+          <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
+            <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="40" height="40"/>
+            <br>
+            LANGUEDOC-NITRO
+          </a>
         </td>
         <td>&nbsp;</td>
       </tr>
