@@ -38,6 +38,34 @@ Kurz gesagt: Als Entwickler mit einer Leidenschaft für das Languedoc-Roussillon
 <h3 align="center">Mein Masterstudiengang :</h3>
 
 <p align="center"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://scontent-mrs2-1.xx.fbcdn.net/v/t1.6435-9/74604707_10156960033772632_2987680273023369216_n.png?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=E4g6_MXIcdEAX-xf6DW&_nc_ht=scontent-mrs2-1.xx&oh=00_AfCvbD7U1CO0XR5D98_qW_MkdUJoqb-_f328yrQLWQLh3Q&oe=65B59A5F" alt="photoshop" width="40" height="40"/>
+<img src="https://seeklogo.com/images/A/adobe-dreamweaver-cc-logo-715C7C7988-seeklogo.com.png" alt="dreamweaver" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/788px-Adobe_Animate_CC_icon.svg.png" alt="animate" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_Audition_CC_icon.svg/2101px-Adobe_Audition_CC_icon.svg.png" alt="audition" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Ztq4WCf8G42MvCnJpdFKRk__uLdm3m9U11TfFRlfWbBqTqVEHIb8jhmiOwbDQG_DSuM&usqp=CAU" alt="premiere pro" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adobe_After_Effects_CC_icon.png/492px-Adobe_After_Effects_CC_icon.png" alt="after effects" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/13_Fuse_Adobe_logo_logos-512.png" alt="fuse" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Adobe_Muse_CC_icon.svg/1050px-Adobe_Muse_CC_icon.svg.png" alt="muse" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/313/PNG/512/Prezi_34270.png" alt="prezi" width="40" height="40"/> 
+</p>
+
+<p align="center"> 
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-One-Note.png" alt="onenote" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/132/456/png-clipart-microsoft-publisher-publisher-2010-microsoft-office-2010-microsoft-excel-microsoft-blue-text-thumbnail.png" alt="publisher" width="40" height="40"/>
+<img src="https://www.gezginler.net/indir/resim-grafik/microsoft-access-2010-runtime-1341560091.png" alt="access" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Project.png" alt="project" width="40" height="40"/>
+<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Visio.png" alt="visio" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="40" height="40"/>
+<img src="https://yt3.googleusercontent.com/ytc/AIf8zZSBIHjj646mGBCfoxCZd7VcBCbx1zD3DEBy71qI=s900-c-k-c0x00ffffff-no-rj" alt="fwsim" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" alt="wix" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="unity" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+</p>
+
+<p align="center"> 
 <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="sql server" width="40" height="40"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/>
