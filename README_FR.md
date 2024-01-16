@@ -80,7 +80,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <p>
   Grâce aux ordinateurs portables LANGUEDOC-NITRO et SEPTUFMANIE. Sans parler du NAS GARONNE qui leur fournit un stockage colossal, on peut réaliser toutes sortes de tâches en lien avec l'informatique
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Voici les liens vers leurs sites :
   <br>
