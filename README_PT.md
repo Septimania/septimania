@@ -81,7 +81,7 @@ Em suma, como programador apaixonado pelo Languedoque-Rossilhão, estou determin
 <p>
 Graças aos computadores portáteis LANGUEDOQUE-NITRO e SEPTUFMANIA. Sem esquecer o NAS GARONA, que lhes proporciona um armazenamento colossal, podemos efetuar todo o tipo de tarefas informáticas.
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Eis as ligações para os seus sítios Web:
   <br>
