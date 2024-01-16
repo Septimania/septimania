@@ -81,7 +81,7 @@ Kortom, als ontwikkelaar met een passie voor Languedoc-Roussillon ben ik vastbes
 <p>
   Dankzij de laptops LANGUEDOC-NITRO en SEPTUFMANIË. Om nog maar te zwijgen van de GARONNE NAS, die hen voorziet van kolossale opslag, kunnen we allerlei IT-gerelateerde taken uitvoeren.
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Hier zijn de links naar hun websites:
   <br>
