@@ -80,7 +80,7 @@ In short, as a developer with a passion for Languedoc-Roussillon, I'm determined
 <p>
   Thanks to the LANGUEDOC-NITRO and SEPTUFMANIA laptops. Not to mention the GARONNE NAS, which provides them with colossal storage, we can carry out all sorts of IT-related tasks.
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Here are the links to their websites:
   <br>
