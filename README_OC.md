@@ -80,7 +80,7 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
 <p>
   Gràcias als ordinators portables LENGADÒC-NITRO e SEPTUFMANIA. Sonque cau parlar del NAS GARONA que lor fornís un emmagazematge colossal, podem realizar tótas las menas de tàscas en relació a l'informatica.
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Voài los liàmes cap a lor sites :
   <br>
