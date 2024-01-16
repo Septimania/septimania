@@ -81,7 +81,7 @@ In breve, come sviluppatore appassionato di Linguadoca-Rossiglione, sono determi
 <p>
   Grazie ai computer portatili LINGUADOCA-NITRO e SETTUFMANIA. Per non parlare del NAS GARONNA, che fornisce loro uno spazio di archiviazione colossale, possiamo svolgere ogni tipo di attività informatica.
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
     Ecco i link ai siti web:
   <br>
