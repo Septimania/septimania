@@ -81,7 +81,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <p>
   Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
   <br>
-  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif">
+  <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
   Estos son los enlaces a sus sitios web:
   <br>
