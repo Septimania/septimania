@@ -21,9 +21,6 @@
 </p>
 
 ## $${\color{#C40026} \sf{SEPTIMANIA}}$$
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
-<h1 align="center" style="font-weight: black; color: #C40026;">SEPTIMANIA</h1>
 
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
