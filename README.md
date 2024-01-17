@@ -21,7 +21,6 @@
 </p>
 
 <h1 align="center" style="font-weight: black; color: #C40026;">SEPTIMANIA</h1>
-<font color="red">Ce texte est en rouge.</font>
 
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
