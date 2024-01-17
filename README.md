@@ -21,6 +21,7 @@
 </p>
 
 ## $${\color{#C40026} \sf{SEPTIMANIA}}$$
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 <h1 align="center" style="font-weight: black; color: #C40026;">SEPTIMANIA</h1>
 
