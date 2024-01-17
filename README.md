@@ -20,7 +20,8 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-<h1 align="center" style="font-weight: black; color: #C40026;">{\color{magenta} \sf{Tech \space Mastery}}</h1>
+<h1 align="center" style="font-weight: black; color: #C40026;">SEPTIMANIA</h1>
+{\color{#C40026} \sf{SEPTIMANIA}}
 
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
