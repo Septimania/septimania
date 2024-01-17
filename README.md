@@ -175,6 +175,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
           </td>
         </tr>
       </tbody>
+      $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
     </table>
   </div>
 </p>
