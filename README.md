@@ -171,7 +171,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
             Microsoft Infopath
           </td>
           <td align="center" style="text-align:center;">
-            Google Forms $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
+            Google Forms $${\color{#55AC4C} \sf{About} \space \sf{Me}}$$ 
           </td>
         </tr>
       </tbody>
