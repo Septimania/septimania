@@ -20,7 +20,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-## $${\boxed{\color{#55AC4C} \sf{About} \space \sf{Me}}}$$ 
+## $${\color{#55AC4C} \sf{SEPTIMANIA}}$$ 
 
 <h1 align="center" style="font-weight: black; color: #C40026;">SEPTIMANIA</h1>
 
