@@ -39,7 +39,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://scontent-mrs2-1.xx.fbcdn.net/v/t1.6435-9/74604707_10156960033772632_2987680273023369216_n.png?_nc_cat=100&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=E4g6_MXIcdEAX-xf6DW&_nc_ht=scontent-mrs2-1.xx&oh=00_AfCvbD7U1CO0XR5D98_qW_MkdUJoqb-_f328yrQLWQLh3Q&oe=65B59A5F" alt="photoshop" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" alt="photoshop" width="40" height="40"/>
 <img src="https://seeklogo.com/images/A/adobe-dreamweaver-cc-logo-715C7C7988-seeklogo.com.png" alt="dreamweaver" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/788px-Adobe_Animate_CC_icon.svg.png" alt="animate" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_Audition_CC_icon.svg/2101px-Adobe_Audition_CC_icon.svg.png" alt="audition" width="40" height="40"/>
