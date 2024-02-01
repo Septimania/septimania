@@ -51,7 +51,7 @@ In short, as a developer with a passion for Languedoc-Roussillon, I'm determined
 </p>
 
 <p align="center"> 
-<img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-One-Note.png" alt="onenote" width="40" height="40"/>
+<img src="https://www.flexsim.com/wp-content/uploads/2020/04/FlexSim-XMark-1.png" alt="flexsim" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/132/456/png-clipart-microsoft-publisher-publisher-2010-microsoft-office-2010-microsoft-excel-microsoft-blue-text-thumbnail.png" alt="publisher" width="40" height="40"/>
 <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-access-2010-runtime-1341560091.png" alt="access" width="40" height="40"/>
 <img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Project.png" alt="project" width="40" height="40"/>
@@ -181,6 +181,17 @@ In short, as a developer with a passion for Languedoc-Roussillon, I'm determined
           </td>
           <td align="center" style="text-align:center;">
             Google Forms
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Notetaking software
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft One Note
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Keeps
           </td>
         </tr>
       </tbody>
