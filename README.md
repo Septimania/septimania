@@ -1,7 +1,4 @@
-<p>
-  <iframe src="https://github.com/Septimania/septimania/blob/main/language.html"></iframe>
-  <object data="https://github.com/Septimania/septimania/blob/main/language.html" width="100%" height="300"></object>
-</p>
+!INCLUDE "https://github.com/Septimania/septimania/blob/main/language.md"
 
 <br />
 <br />
