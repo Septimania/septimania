@@ -183,6 +183,17 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
             Google Forms
           </td>
         </tr>
+        <tr>
+          <td align="center" style="text-align:center;">
+            Logiciel de prise de notes
+          </td>
+          <td align="center" style="text-align:center;">
+            Microsoft One Note
+          </td>
+          <td align="center" style="text-align:center;">
+            Google Keeps
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
