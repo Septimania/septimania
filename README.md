@@ -8,6 +8,10 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_PT.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png?uselang=fr" alt="PT" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_NL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png" alt="NL" height="32px"></a>
 </p>
+<div>
+  <!-- Chemin vers votre fichier HTML -->
+  <iframe src="https://github.com/Septimania/septimania/blob/main/language.html"></iframe>
+</div>
 
 <br />
 <br />
