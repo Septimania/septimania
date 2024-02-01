@@ -88,6 +88,15 @@ In breve, come sviluppatore appassionato di Linguadoca-Rossiglione, sono determi
   <div align="center">
     <table>
       <tbody>
+      <tr>
+          <td width="180px" align="center" style="text-align:center;" colspan="2">
+            <a href="https://synologygaronne.wixsite.com/synologygaronne">
+              <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
+              <br>
+              GARONNA
+            </a>
+          </td>
+        </tr>
         <tr>
           <td width="180px" align="center" style="text-align:center;">
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
