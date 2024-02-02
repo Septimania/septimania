@@ -9,10 +9,6 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_NL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png" alt="NL" height="32px"></a>
 </p>
 
-```markdown
-!INCLUDE "https://github.com/Septimania/septimania/blob/main/Language.md"
-'''
-
 <br />
 <br />
 <br />
