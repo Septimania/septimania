@@ -10,7 +10,7 @@
 </p>
 
 ```markdown
-!INCLUDE "https://github.com/Septimania/septimania/blob/main/README_NL.md"
+!INCLUDE "https://github.com/Septimania/septimania/blob/main/Language.md"
 
 <br />
 <br />
