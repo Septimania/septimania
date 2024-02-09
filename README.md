@@ -1,7 +1,4 @@
-```{r}
-#| echo: false
-knitr::include_url({"https://quarto.org/"})
-```
+<iframe src="https://quarto.org/" title="https://quarto.org/" width="960" height="500" data-external="1"></iframe>
 
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
