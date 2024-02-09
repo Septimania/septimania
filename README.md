@@ -1,14 +1,3 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="https://github.com/Septimania/septimania/blob/main/README_FR.md">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
-
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
