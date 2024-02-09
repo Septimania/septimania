@@ -188,17 +188,6 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
             Google Forms
           </td>
         </tr>
-                <tr>
-          <td align="center" style="text-align:center;">
-            Éditeur et remplisseur de formulaires
-          </td>
-          <td align="center" style="text-align:center;">
-            Microsoft Infopath
-          </td>
-          <td align="center" style="text-align:center;">
-            Google Forms
-          </td>
-        </tr>
         <tr>
           <td align="center" style="text-align:center;">
             Logiciel de prise de notes
