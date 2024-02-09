@@ -179,7 +179,7 @@ Kort sagt, som udvikler med en passion for Languedoc-Roussillon-regionen er jeg 
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Éditeur et remplisseur de formulaires
+            Formulareditor og formularudfylder
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
