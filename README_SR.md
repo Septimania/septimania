@@ -111,7 +111,7 @@
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Захваљујући лаптопима ЛАНГЕДОЦ-НИТРО и СЕПТУФМАНИA. Да не спомињемо НАС ГАРОНA који им пружа колосалан простор за складиштење, можемо да извршимо све врсте задатака у вези са ИТ
+  Захваљујући лаптопима ЛАНГЕДОK-НИТРО и СЕПТУФМАНИA. Да не спомињемо НАС ГАРОНA који им пружа колосалан простор за складиштење, можемо да извршимо све врсте задатака у вези са ИТ
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
@@ -134,7 +134,7 @@
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              ЛАНГЕДОЦ-НИТРО
+              ЛАНГЕДОK-НИТРО
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
