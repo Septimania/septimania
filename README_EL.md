@@ -52,22 +52,21 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SEPTIMANIA}}$$
+# $${\color{#C40026} \sf{ΣΕΠΤΙΜΑΝΙΑ}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Το Λανγκντόκ-Ρουσιγιόν είναι μια γαλλική περιοχή πλούσια σε ιστορία, πολιτισμό και υπέροχα τοπία. Αυτός είναι ο λόγος για τον οποίο είμαι ένας προγραμματιστής με πάθος για την περιοχή αυτή.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Ο θαυμασμός μου για την περιοχή Λανγκντόκ-Ρουσιγιόν είναι επίσης εμφανής στο πάθος μου για την ανάπτυξη υπολογιστών. Ως προγραμματιστής, προσπαθώ να συμβάλλω στην προώθηση και την ανάδειξη αυτής της περιοχής μέσω των προγραμματιστικών μου ικανοτήτων.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Αναζητώ συνεχώς δημιουργικούς τρόπους για να χρησιμοποιήσω την τεχνολογία για να αναδείξω τις μοναδικές πτυχές του Λανγκντόκ-Ρουσιγιόν. Είτε πρόκειται για τη δημιουργία εφαρμογών για κινητά τηλέφωνα που βοηθούν τους τουρίστες να εξερευνήσουν την περιοχή, είτε για την ανάπτυξη ιστότοπων για την προώθηση τοπικών προϊόντων είτε για τον σχεδιασμό ψηφιακών εργαλείων που βελτιώνουν την εμπειρία των ντόπιων, δεσμεύομαι να χρησιμοποιώ τις δεξιότητές μου στην ανάπτυξη για να αναδείξω τον πλούτο αυτής της περιοχής.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Ως προγραμματιστής με πάθος για την περιοχή Λανγκντόκ-Ρουσιγιόν, προσπαθώ επίσης να ενημερώνομαι για τις τελευταίες τεχνολογικές τάσεις και καινοτομίες, ώστε να μπορώ να τις ενσωματώσω αποτελεσματικά στα έργα μου. Μου αρέσει να αναλαμβάνω προκλήσεις και να βρίσκω καινοτόμες λύσεις για να ικανοποιώ τις ανάγκες των πελατών μου και να παρέχω εξαιρετική εμπειρία στον χρήστη.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Εν ολίγοις, ως προγραμματιστής με πάθος για την περιοχή Λανγκντόκ-Ρουσιγιόν, είμαι αποφασισμένος να χρησιμοποιήσω τις δεξιότητές μου και το πάθος μου για την τεχνολογία για την προώθηση και την ενίσχυση αυτής της υπέροχης περιοχής, συμβάλλοντας στην ανάπτυξη καινοτόμων έργων και στη δημιουργία μοναδικών ψηφιακών εμπειριών.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Ο τομέας εμπειρογνωμοσύνης μου :</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Χάρη στους φορητούς υπολογιστές ΛΑΝΝΓΝΤΟΚ-ΝΙΤΡΟ και ΣΕΠΤΥΦΜΑΝΙΑ. Για να μην αναφέρουμε το ΓΑΡΟΥΝΑΣ ΝΑΣ, το οποίο τους παρέχει κολοσσιαίο αποθηκευτικό χώρο, μπορούμε να εκτελούμε κάθε είδους εργασίες που σχετίζονται με την πληροφορική.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Ακολουθούν οι σύνδεσμοι προς τους δικτυακούς τόπους τους:
   <br>
   <div align="center">
     <table>
@@ -125,7 +124,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://synologygaronne.wixsite.com/synologygaronne">
               <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
               <br>
-              GARONA
+              ΓΑΡΟΥΝΑΣ
             </a>
           </td>
         </tr>
@@ -134,14 +133,14 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              LANGUEDOC-NITRO
+              ΛΑΝΝΓΝΤΟΚ-ΝΙΤΡΟ
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
             <a href="https://septufmanie.wixsite.com/septufmanie">
               <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              SEPTUFMANIA
+              ΣΕΠΤΥΦΜΑΝΙΑ
             </a>
           </td>
         </tr>
@@ -153,9 +152,9 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Είναι πολύ ωραίο να μπορείς να κάνεις πολλά πράγματα μόνος σου, αλλά δεν πρέπει να ξεχνάς ότι οι αριθμοί είναι δυνατοί.<br/>
+  Γι' αυτό είναι απαραίτητο να κατέχετε το τοπικό λογισμικό γραφείου, αλλά και εναλλακτικές λύσεις που σας επιτρέπουν να εργάζεστε συνεργατικά.<br/>
+  Ακολουθούν ορισμένα παραδείγματα τοπικών λογισμικών γραφείου και τα διαδικτυακά ισοδύναμά τους: <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
@@ -163,18 +162,18 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
       <tbody>
         <tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Τύπος λογισμικού
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Λογισμικό που χρησιμοποιείται τοπικά
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Ηλεκτρονικό ισοδύναμο
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Επεξεργασία κειμένου
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Φύλλο εργασίας
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Δημιουργός παρουσιάσεων διαφανειών
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Επεξεργαστής φόρμας και συμπλήρωση φόρμας
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Λογισμικό σημειώσεων
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note

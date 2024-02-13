@@ -55,19 +55,18 @@
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Langdoka-Rusijona ir Francijas reģions ar bagātu vēsturi, kultūru un krāšņām ainavām. Tāpēc es esmu izstrādātājs, kas aizraujas ar šo reģionu.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Mana sajūsma par Langdoka-Rusijona reģionu izpaužas arī manā aizraušanās ar datoru izstrādi. Kā programmētājs es cenšos sniegt ieguldījumu šī reģiona popularizēšanā un uzlabošanā, izmantojot savas programmēšanas prasmes.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Es nepārtraukti meklēju radošus veidus, kā izmantot tehnoloģijas, lai parādītu unikālos Langedokas-Rusijonas aspektus. Neatkarīgi no tā, vai runa ir par mobilo lietotņu radīšanu, lai palīdzētu tūristiem iepazīt reģionu, tīmekļa vietņu izstrādi vietējo produktu popularizēšanai vai digitālo rīku izstrādi, lai uzlabotu vietējo iedzīvotāju pieredzi, es esmu apņēmies izmantot savas attīstības prasmes, lai parādītu šī reģiona bagātības.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Kā izstrādātājs, kas aizraujas ar Langdoka-Rusijona reģionu, cenšos sekot līdzi jaunākajām tehnoloģiju tendencēm un inovācijām, lai varētu tās efektīvi integrēt savos projektos. Man patīk pieņemt izaicinājumus un rast inovatīvus risinājumus, lai apmierinātu klientu vajadzības un nodrošinātu izcilu lietotāju pieredzi.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Īsāk sakot, es kā izstrādātājs ar aizraušanos ar Langdoka-Rusijona reģionu esmu apņēmības pilns izmantot savas prasmes un aizraušanos ar tehnoloģijām, lai popularizētu un uzlabotu šo krāšņo reģionu, palīdzot izstrādāt inovatīvus projektus un radīt unikālu digitālo pieredzi.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Mana kompetences joma :</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Paldies LANGDOKA-NITRO un SEPTUFMANIA klēpjdatoriem. Nemaz nerunājot par GARONNA NAS, kas tiem nodrošina kolosālu krātuvi, mēs varam veikt visdažādākos ar IT saistītus uzdevumus.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Šeit ir saites uz to tīmekļa vietnēm:
   <br>
   <div align="center">
     <table>
@@ -125,7 +124,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://synologygaronne.wixsite.com/synologygaronne">
               <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
               <br>
-              GARONA
+              GARONNA
             </a>
           </td>
         </tr>
@@ -134,7 +133,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              LANGUEDOC-NITRO
+              LANGDOKA-NITRO
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
@@ -153,9 +152,9 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Tas ir labi, ka daudz ko varat paveikt viens pats, taču neaizmirstiet, ka skaitliskajā izteiksmē ir spēks.<br/>
+  Tāpēc ir svarīgi pārzināt ne tikai lokāli instalēto biroja programmatūru, bet arī alternatīvas, kas nodrošina kopīgu darbu.<br/>
+  Šeit ir vietējās biroja programmatūras un tās tiešsaistes ekvivalentu piemērs: <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
@@ -163,18 +162,18 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
       <tbody>
         <tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Programmatūras veids
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Vietēji izmantotā programmatūra
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Tiešsaistes ekvivalents
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Teksta apstrāde
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Izklājlapa
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Slaidšovu veidotājs
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Veidlapu redaktors un veidlapu aizpildītājs
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Piezīmju rakstīšanas programmatūra
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note

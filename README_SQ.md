@@ -55,19 +55,18 @@
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Lengodok-Rruseljo është një rajon francez i pasur me histori, kulturë dhe peizazhe të mrekullueshme. Kjo është arsyeja pse unë jam një zhvillues i pasionuar pas këtij rajoni.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Admirimi im për Lengodok-Rruseljo manifestohet edhe në pasionin tim për zhvillimin e IT. Si zhvillues, përpiqem të kontribuoj në promovimin dhe përmirësimin e këtij rajoni përmes aftësive të mia programuese.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Unë jam duke kërkuar vazhdimisht mënyra krijuese për të përdorur teknologjinë për të nxjerrë në pah aspektet unike të Lengodok-Rruseljo. Qoftë duke krijuar aplikacione celulare për të ndihmuar turistët të eksplorojnë rajonin, duke zhvilluar uebsajte për të promovuar produktet lokale, apo duke krijuar mjete dixhitale për të përmirësuar përvojën e vendasve, unë jam i përkushtuar të përdor aftësitë e mia në zhvillim për të nxjerrë në pah pasuritë e këtij rajoni.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Si një zhvillues i apasionuar pas Lengodok-Rruseljo, unë gjithashtu përpiqem të qëndroj i përditësuar me tendencat dhe risitë më të fundit teknologjike, në mënyrë që t'i integroj ato në mënyrë efektive në projektet e mia. Më pëlqen të përballoj sfidat dhe të gjej zgjidhje inovative për të përmbushur nevojat e klientëve të mi dhe për të ofruar një përvojë të jashtëzakonshme përdoruesi.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Si përmbledhje, si një zhvillues i apasionuar pas Lengodok-Rruseljo, unë jam i vendosur të përdor aftësitë e mia dhe pasionin tim për teknologjinë për të promovuar dhe përmirësuar këtë rajon të mrekullueshëm, duke kontribuar në zhvillimin e projekteve inovative dhe duke krijuar përvoja dixhitale unike.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Fusha ime e ekspertizës:</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Falë laptopëve LENGODOK-NITRO dhe SEPTUFMANIA. Për të mos përmendur NAS GARONNE e cila u siguron atyre ruajtje kolosale, ne mund të kryejmë të gjitha llojet e detyrave që lidhen me IT
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Voici les liens vers leurs sites :
   <br>
   <div align="center">
     <table>
@@ -125,7 +124,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://synologygaronne.wixsite.com/synologygaronne">
               <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
               <br>
-              GARONA
+              GARONNE
             </a>
           </td>
         </tr>
@@ -134,7 +133,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              LANGUEDOC-NITRO
+              LENGODOK-NITRO
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
@@ -153,28 +152,28 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Të dish të bësh shumë gjëra vetëm është gjithçka mirë, por nuk duhet të harrojmë se ka forcë në unitet.<br/>
+  Kjo është arsyeja pse është thelbësore të zotëroni softuerin e zyrës të instaluar në nivel lokal, por edhe alternativat që ju lejojnë të punoni në mënyrë bashkëpunuese.<br/>
+  Këtu është një shembull i softuerit lokal të zyrës dhe ekuivalentët e tyre në internet: <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
     <table>
       <tbody>
-        <tr>
+		<tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Lloji i softuerit
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Softueri i përdorur në nivel lokal
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Ekuivalent online
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Përpunues teksti
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Fletëllogaritëse
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Krijues i shfaqjeve të rrëshqitjes
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Redaktori dhe plotësuesi i formularit
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Softueri për marrjen e shënimeve
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note

@@ -52,22 +52,21 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SEPTIMANIA}}$$
+# $${\color{#C40026} \sf{SEPTIMÁNIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Languedoc-Roussillon je francouzský region s bohatou historií, kulturou a nádhernou krajinou. Proto jsem vývojář s vášní pro tento region.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Můj obdiv k regionu Languedoc-Roussillon se projevuje i v mé vášni pro vývoj počítačů. Jako vývojář se snažím přispět k propagaci a zvelebování tohoto regionu prostřednictvím svých programátorských dovedností.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Neustále hledám kreativní způsoby, jak využít technologie k prezentaci jedinečných aspektů Languedocu-Roussillonu. Ať už se jedná o vytváření mobilních aplikací, které pomáhají turistům při poznávání regionu, vývoj webových stránek na propagaci místních produktů nebo navrhování digitálních nástrojů pro zlepšení zkušeností místních lidí, jsem odhodlán využít své vývojářské dovednosti k prezentaci bohatství tohoto regionu.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Jako vývojář s vášní pro region Languedoc-Roussillon se také snažím sledovat nejnovější technologické trendy a inovace, abych je mohl efektivně začlenit do svých projektů. Rád přijímám výzvy a nacházím inovativní řešení, abych splnil potřeby svých klientů a poskytl jim výjimečný uživatelský zážitek.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Jako vývojář s vášní pro region Languedoc-Roussillon jsem zkrátka odhodlán využít své schopnosti a vášeň pro technologie k propagaci a zvelebování tohoto nádherného regionu a pomáhat při vývoji inovativních projektů a vytváření jedinečných digitálních zážitků.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Moje odbornost :</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Díky notebookům LANGUEDOC-NITRO a SEPTUFMÁNIE. Nemluvě o zařízení GARONNA NAS, které jim poskytuje kolosální úložiště, můžeme provádět nejrůznější úkoly související s IT.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Zde jsou odkazy na jejich webové stránky:
   <br>
   <div align="center">
     <table>
@@ -125,7 +124,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://synologygaronne.wixsite.com/synologygaronne">
               <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
               <br>
-              GARONA
+              GARONNA
             </a>
           </td>
         </tr>
@@ -141,7 +140,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://septufmanie.wixsite.com/septufmanie">
               <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              SEPTUFMANIA
+              SEPTUFMÁNIE
             </a>
           </td>
         </tr>
@@ -153,9 +152,9 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Je sice hezké, že spoustu věcí zvládnete sami, ale nezapomeňte, že v počtu je síla.<br/>
+  Proto je nezbytné znát lokálně instalovaný kancelářský software, ale také alternativy, které umožňují spolupráci.<br/>
+  Zde je příklad místního kancelářského softwaru a jeho online ekvivalentů: <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
@@ -163,18 +162,18 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
       <tbody>
         <tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Typ softwaru
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Místně používaný software
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Online ekvivalent
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Zpracování textu
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Tabulkový procesor
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Tvůrce prezentací
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Editor formulářů a výplň formulářů
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Software pro psaní poznámek
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note

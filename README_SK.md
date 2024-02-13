@@ -55,19 +55,18 @@
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Languedoc-Roussillon je francúzsky región s bohatou históriou, kultúrou a nádhernou krajinou. Preto som developer s vášňou pre tento región.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Môj obdiv k regiónu Languedoc-Roussillon sa prejavuje aj v mojej vášni pre vývoj počítačov. Ako vývojár sa snažím prispieť k propagácii a zveľaďovaniu tohto regiónu prostredníctvom svojich programátorských zručností.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Neustále hľadám kreatívne spôsoby, ako využiť technológie na prezentáciu jedinečných aspektov Languedocu-Roussillonu. Či už ide o vytváranie mobilných aplikácií, ktoré pomáhajú turistom pri spoznávaní regiónu, vývoj webových stránok na propagáciu miestnych produktov alebo navrhovanie digitálnych nástrojov na zlepšenie skúseností miestnych ľudí, som odhodlaný využívať svoje vývojárske zručnosti na prezentáciu bohatstva tohto regiónu.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Ako vývojár s vášňou pre región Languedoc-Roussillon sa snažím sledovať najnovšie technologické trendy a inovácie, aby som ich mohol efektívne integrovať do svojich projektov. Rád prijímam výzvy a hľadám inovatívne riešenia, aby som splnil potreby svojich klientov a poskytol im výnimočný používateľský zážitok.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Ako vývojár s vášňou pre región Languedoc-Roussillon som skrátka odhodlaný využiť svoje schopnosti a vášeň pre technológie na propagáciu a zveľaďovanie tohto nádherného regiónu, pomáhať pri vývoji inovatívnych projektov a vytváraní jedinečných digitálnych zážitkov.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Moja oblasť pôsobnosti :</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Vďaka notebookom LANGUEDOC-NITRO a SEPTUFMANIE. Nehovoriac o zariadení GARONNE NAS, ktoré im poskytuje kolosálne úložisko, môžeme vykonávať všetky druhy úloh súvisiacich s IT.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Tu sú odkazy na ich webové stránky:
   <br>
   <div align="center">
     <table>
@@ -125,7 +124,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://synologygaronne.wixsite.com/synologygaronne">
               <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
               <br>
-              GARONA
+              GARONNE
             </a>
           </td>
         </tr>
@@ -141,7 +140,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://septufmanie.wixsite.com/septufmanie">
               <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              SEPTUFMANIA
+              SEPTUFMANIE
             </a>
           </td>
         </tr>
@@ -153,28 +152,28 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Je dobré byť schopný urobiť veľa vecí sám, ale nesmieme zabúdať, že v počte je sila.<br/>
+  Preto je nevyhnutné poznať lokálne nainštalovaný kancelársky softvér, ale aj alternatívy, ktoré umožňujú spoluprácu.<br/>
+  Tu je príklad lokálneho kancelárskeho softvéru a jeho online ekvivalentov:<br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
     <table>
       <tbody>
-        <tr>
+		<tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Typ softvéru
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Softvér používaný lokálne
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Online ekvivalent
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Textový procesor
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Tabuľkový hárok
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Tvorca prezentácií
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Editor a výplň formulárov
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Softvér na vytváranie poznámok
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note

@@ -55,19 +55,18 @@
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Languedoc-Rosellón es una región francesa rica en historia, cultura y magníficos paisajes. Por eso soy un desarrollador apasionado por esta región.<br />
+<div align="center">Langedokas-Rusijonas yra Prancūzijos regionas, turtingas istorijos, kultūros ir nuostabių kraštovaizdžių. Štai kodėl esu kūrėjas, kuriam šis regionas kelia aistrą.<br />
 
-Mi admiración por el Languedoc-Rosellón se manifiesta también en mi pasión por el desarrollo informático. Como desarrollador, me esfuerzo por contribuir a la promoción y mejora de esta región a través de mis conocimientos de programación.<br />
+Mano susižavėjimas Langedokas-Rusijonas regionu taip pat atsispindi mano aistroje kurti kompiuterius. Būdamas programuotojas, savo programavimo įgūdžiais siekiu prisidėti prie šio regiono populiarinimo ir puoselėjimo.<br />
 
-Busco constantemente formas creativas de utilizar la tecnología para poner de relieve los aspectos únicos de la región de Languedoc-Rosellón. Ya sea creando aplicaciones móviles para ayudar a los turistas a explorar la región, desarrollando sitios web para promocionar los productos locales o diseñando herramientas digitales para mejorar la experiencia de la población local, me comprometo a utilizar mis habilidades de desarrollo para mostrar las riquezas de esta región.<br />
+Nuolat ieškau kūrybiškų būdų, kaip panaudoti technologijas, kad galėčiau pristatyti unikalius Langedokas-Rusijonas aspektus. Kuriu mobiliąsias programėles, padedančias turistams tyrinėti regioną, kuriu svetaines vietos produktams reklamuoti arba projektuoju skaitmenines priemones, skirtas vietos žmonių patirčiai pagerinti - esu pasiryžęs panaudoti savo programavimo įgūdžius šio regiono turtams pristatyti.<br />
 
-Como desarrollador apasionado por la región de Languedoc-Rosellón, también me esfuerzo por mantenerme al día de las últimas tendencias e innovaciones tecnológicas, para poder incorporarlas eficazmente a mis proyectos. Me gusta asumir retos y encontrar soluciones innovadoras para satisfacer las necesidades de mis clientes y ofrecer una experiencia de usuario excepcional.<br />
+Esu kūrėjas, kuriam svarbus Langedokas-Rusijonas regionas, todėl stengiuosi nuolat sekti naujausias technologijų tendencijas ir inovacijas, kad galėčiau jas veiksmingai integruoti į savo projektus. Man patinka priimti iššūkius ir ieškoti novatoriškų sprendimų, kad patenkinčiau klientų poreikius ir užtikrinčiau išskirtinę naudotojų patirtį.<br />
 
-En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidido a utilizar mis habilidades y mi pasión por la tecnología para promover y mejorar esta hermosa región, ayudando a desarrollar proyectos innovadores y a crear experiencias digitales únicas.
-</div>
+Trumpai tariant, esu aistringas Langedokas-Rusijonas regiono kūrėjas, todėl esu pasiryžęs panaudoti savo įgūdžius ir aistrą technologijoms, kad reklamuočiau ir stiprinčiau šį nuostabų regioną, padėdamas plėtoti novatoriškus projektus ir kurti unikalią skaitmeninę patirtį.</div>
 </p>
 
-<h3 align="center">Mis competencias :</h3>
+<h3 align="center">Mano kompetencijos sritis :</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
@@ -111,11 +110,11 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Gracias a los portátiles LANGUEDOC-NITRO y SEPTUFMANIA. Por no hablar del NAS GARONA, que les proporciona un almacenamiento colosal, podemos llevar a cabo todo tipo de tareas relacionadas con la informática
+  Dėkojame nešiojamiesiems kompiuteriams LANGUEDOKAS-NITRO ir SEPTUFMANIA. Jau nekalbant apie GARONA NAS, kuris suteikia jiems milžinišką saugyklą, galime atlikti įvairias su IT susijusias užduotis.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Estos son los enlaces a sus sitios web:
+  Čia pateikiamos nuorodos į jų svetaines:
   <br>
   <div align="center">
     <table>
@@ -134,7 +133,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
             <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
               <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
               <br>
-              LANGUEDOC-NITRO
+              LANGUEDOKAS-NITRO
             </a>
           </td>
            <td width="180px" align="center" style="text-align:center;">
@@ -153,28 +152,28 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
 <br/>
 <br/>
 <p>
-  Está muy bien ser capaz de hacer muchas cosas por uno mismo, pero no hay que olvidar que la unión hace la fuerza.<br/>
-  Por eso es esencial dominar el software de oficina local, pero también alternativas que te permitan trabajar en colaboración.<br/>
-  He aquí algunos ejemplos de programas ofimáticos locales y sus equivalentes en línea: <br/>
+  Gerai, kad daug ką galite padaryti patys, tačiau nereikia pamiršti, kad skaičiuje slypi stiprybė.<br/>
+  Todėl labai svarbu išmanyti ne tik vietoje įdiegtą biuro programinę įrangą, bet ir alternatyvias programas, kuriomis galima dirbti bendradarbiaujant.<br/>
+  Pateikiame vietinės biuro programinės įrangos ir jos internetinių atitikmenų pavyzdį: <br/>
   <img src="https://github.com/Septimania/septimania/blob/main/microsoft vs google.png">
   <br>
   <div align="center">
-    <table>
+	<table>
       <tbody>
         <tr>
           <td align="center" style="text-align:center;">
-            Tipo de programa
+            Programinės įrangos tipas
           </td>
           <td align="center" style="text-align:center;">
-            Programas utilizados localmente
+            Vietomis naudojama programinė įranga
           </td>
           <td align="center" style="text-align:center;">
-            Equivalente en línea
+            Internetinis atitikmuo
           </td>
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Tratamiento de textos
+            Tekstų apdorojimas
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Word
@@ -185,7 +184,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Programa para las hojas de cálculo
+            Skaičiuoklės
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Excel
@@ -196,7 +195,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-           Creador de presentaciones
+           Skaidrių kūrimo programa
           </td>
           <td align="center" style="text-align:center;">
             Microsoft PowerPoint
@@ -207,7 +206,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Editor y cumplimentador de formularios
+            Formos redaktorius ir formos užpildas
           </td>
           <td align="center" style="text-align:center;">
             Microsoft Infopath
@@ -218,7 +217,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
         </tr>
         <tr>
           <td align="center" style="text-align:center;">
-            Software para tomar notas
+            Užrašų rašymo programinė įranga
           </td>
           <td align="center" style="text-align:center;">
             Microsoft One Note
@@ -228,7 +227,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> 
   </div>
 </p>
 <br/>

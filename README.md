@@ -3,7 +3,7 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_EN.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="EN" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_ES.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/320px-Flag_of_Spain.svg.png?uselang=fr" alt="ES" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_IT.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="IT" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_IT.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="IT" height="32px"><a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_DE.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" alt="DE" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_PT.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png?uselang=fr" alt="PT" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_NL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/320px-Flag_of_the_Netherlands.svg.png" alt="NL" height="32px"></a>
@@ -13,8 +13,33 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_FI.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2560px-Flag_of_Finland.svg.png" alt="FI" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_NO.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/2560px-Flag_of_Norway.svg.png" alt="NO" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_IS.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2560px-Flag_of_Iceland.svg.png" alt="IS" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_ET.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/langfr-2880px-Flag_of_Estonia.svg.png" alt="ET" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_LV.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langfr-2880px-Flag_of_Latvia.svg.png" alt="LV" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_LT.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/langfr-2880px-Flag_of_Lithuania.svg.png" alt="LT" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_CS.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langfr-2880px-Flag_of_the_Czech_Republic.svg.png" alt="CS" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_SK.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/langfr-2880px-Flag_of_Slovakia.svg.png" alt="SK" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_PL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langfr-2880px-Flag_of_Poland.svg.png" alt="PL" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_SL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/langfr-2880px-Flag_of_Slovenia.svg.png" alt="SL" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_HR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/langfr-2880px-Flag_of_Croatia.svg.png" alt="HR" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_BS.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/langfr-2880px-Flag_of_Bosnia_and_Herzegovina.svg.png" alt="BS" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_RO.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/langfr-2880px-Flag_of_Romania.svg.png" alt="RO" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_SQ.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-2880px-Flag_of_Albania.svg.png" alt="SQ" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_TU.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langfr-2880px-Flag_of_Turkey.svg.png" alt="TU" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_EL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/langfr-2880px-Flag_of_Greece.svg.png" alt="EL" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_RU.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langfr-2880px-Flag_of_Russia.svg.png" alt="RU" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_BG.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/langfr-2880px-Flag_of_Bulgaria.svg.png" alt="BG" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_UA.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langfr-2880px-Flag_of_Ukraine.svg.png" alt="UA" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_BE.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/langfr-2880px-Flag_of_Belarus.svg.png" alt="BE" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_MK.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/langfr-2880px-Flag_of_North_Macedonia.svg.png" alt="MK" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_SR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/langfr-2880px-Flag_of_Serbia.svg.png" alt="SR" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_AR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/langfr-2880px-Flag_of_the_Arab_League.svg.png" alt="AR" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_IL.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langfr-2880px-Flag_of_Israel.svg.png" alt="IL" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_JP.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langfr-2880px-Flag_of_Japan.svg.png" alt="JP" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_ZH.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langfr-2880px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="ZH" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_KO.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langfr-2880px-Flag_of_South_Korea.svg.png" alt="KO" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_TH.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/langfr-2880px-Flag_of_Thailand.svg.png" alt="TH" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_HI.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/langfr-2880px-Flag_of_India.svg.png" alt="HI" height="32px"></a>
 </p>
-
 
 <br />
 <br />
