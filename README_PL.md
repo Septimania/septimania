@@ -114,7 +114,7 @@ Krótko mówiąc, jako programista z pasją do regionu Langwedocja-Roussillon, j
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Voici les liens vers leurs sites :
+  Oto linki do ich stron:
   <br>
   <div align="center">
     <table>
