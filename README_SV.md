@@ -114,7 +114,7 @@ Kort sagt, som utvecklare med passion för regionen Languedoc-Roussillon är jag
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Voici les liens vers leurs sites :
+  Här är länkarna till deras sajter:
   <br>
   <div align="center">
     <table>
