@@ -110,7 +110,7 @@
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 <p>
-  Спасибо ноутбукам LANGUEDOC-NITRO и СЕПТУФМАНИА. Не говоря уже о НАС ГАРОНА, который предоставляет им колоссальное хранилище, мы можем выполнять любые задачи, связанные с ИТ.
+  Спасибо ноутбукам ЛАНГЕДОК-НИТРО и СЕПТУФМАНИА. Не говоря уже о НАС ГАРОНА, который предоставляет им колоссальное хранилище, мы можем выполнять любые задачи, связанные с ИТ.
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
