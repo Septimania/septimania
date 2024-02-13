@@ -66,7 +66,7 @@ Caut în mod constant modalități creative de a utiliza tehnologia pentru a pre
 Pe scurt, în calitate de dezvoltator pasionat de regiunea Languedoc-Roussillon, sunt hotărât să îmi folosesc abilitățile și pasiunea pentru tehnologie pentru a promova și a pune în valoare această frumoasă regiune, ajutând la dezvoltarea de proiecte inovatoare și la crearea de experiențe digitale unice.</div>
 </p>
 
-<h3 align="center">Mon domaine de maîtrise :</h3>
+<h3 align="center">Domeniul meu de expertiza:</h3>
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/>
