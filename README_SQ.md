@@ -114,7 +114,7 @@ Si përmbledhje, si një zhvillues i apasionuar pas Lengodok-Rruseljo, unë jam 
   <br>
   <img src="https://github.com/Septimania/septimania/blob/main/Composition-2.gif" alt="Pyro-Nitro Geo-TUF">
   <br>
-  Voici les liens vers leurs sites :
+  Këtu janë lidhjet në faqet e tyre:
   <br>
   <div align="center">
     <table>
