@@ -104,7 +104,7 @@ In short, as a developer with a passion for Languedoc-Roussillon, I'm determined
 <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" alt="css" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" alt="javascript" width="40" height="40"/>
 <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/>
-<img src="https://www.altam.fr/wp-content/uploads/2021/10/autodesk-3ds-max-small-social-400.png" alt="3ds max" width="40" height="40"/>
+<img src="https://www.altam.fr/wp-content/uploads/2024/01/autodesk-3ds-max-small-social-400.png" alt="3ds max" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Google_Sketchup_23504.png" alt="sketchup" width="40" height="40"/>
 <img src="https://toppng.com/uploads/preview/mari-logo-rgb-foundry-mari-logo-1156286701534oyfve948.png" alt="mari" width="40" height="40"/>
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
