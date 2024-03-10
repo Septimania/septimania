@@ -91,7 +91,7 @@ Kortom, als ontwikkelaar met een passie voor Languedoc-Roussillon ben ik vastbes
 <img src="https://files.softicons.com/download/application-icons/office-2010-icons-by-deleket/png/512x512/Microsoft-Office-Visio.png" alt="visio" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="arduino" width="40" height="40"/>
 <img src="https://yt3.googleusercontent.com/ytc/AIf8zZSBIHjj646mGBCfoxCZd7VcBCbx1zD3DEBy71qI=s900-c-k-c0x00ffffff-no-rj" alt="fwsim" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/380_Wix_logo-512.png" alt="wix" width="40" height="40"/>
+<img src="https://play-lh.googleusercontent.com/EbdHNp8uMZcyzHqqf6IxkqYaUf0QjMzJyNOk33qEsrjf0_vVCPKq4QbOCjJx7jZ3LCs" alt="wix" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="unity" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
