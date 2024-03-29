@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{赛普蒂曼尼亚}}$$
+# $${\color{#C40026} \sf{赛普提曼尼亚}}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">朗格多克-鲁西永是法国的一个地区，拥有丰富的历史、文化和壮丽的风景。这就是为什么我是一名对该地区充满热情的开发者。<br />
