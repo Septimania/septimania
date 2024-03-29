@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{셉티매니아}}$$
+# $${\color{#C40026} \sf{셉티마니아}}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">랑그독-루시옹은 풍부한 역사, 문화, 아름다운 풍경을 자랑하는 프랑스 지역입니다. 이것이 제가 이 지역에 열정을 갖고 있는 개발자인 이유입니다.<br />
