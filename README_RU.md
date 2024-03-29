@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{СЕПТИМАНИА}}$$
+# $${\color{#C40026} \sf{СЕПТИМАНИЯ}}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Лангедок-Руссильон — французский регион с богатой историей, культурой и великолепными пейзажами. Вот почему я разработчик, увлеченный этим регионом.<br />
