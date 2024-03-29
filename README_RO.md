@@ -55,7 +55,7 @@
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 <p style="margin: 15px;" align="center">
-<div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
+<div align="center">Languedoc-Roussillon este o regiune franceză bogată în istorie, cultură și peisaje magnifice. De aceea sunt un dezvoltator pasionat de această regiune.<br />
 
 Admirația mea pentru regiunea Languedoc-Roussillon se reflectă, de asemenea, în pasiunea mea pentru dezvoltarea IT. În calitate de dezvoltator, mă străduiesc să contribui la promovarea și punerea în valoare a acestei regiuni prin intermediul competențelor mele de programare.<br/>
 
