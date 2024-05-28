@@ -42,9 +42,6 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_TH.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/langfr-2880px-Flag_of_Thailand.svg.png" alt="TH" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_HI.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/langfr-2880px-Flag_of_India.svg.png" alt="HI" height="32px"></a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </details>
 
 <p style="margin: 15px;" align="center">
