@@ -1,6 +1,4 @@
-<details style="details summary::-webkit-details-marker {
-  display:none;
-}">
+<details>
 <summary>
   <picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/A_large_blank_world_map_with_oceans_marked_in_blue.PNG" alt="Lang" height="64px">
