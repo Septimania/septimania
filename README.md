@@ -1,3 +1,17 @@
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
+</details>
+
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
