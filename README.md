@@ -1,20 +1,20 @@
-        <div class="dropdown"> 
-            <button class="dropbtn"> 
-                Country Flags 
-            </button> 
-              
-            <div class="dropdown-content"> 
-                <a href="#"> 
-                    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200630132503/iflag.jpg" width="20" height="15"> India</a> 
-  
-                <a href="#"> 
-                    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132504/uflag.jpg" width="20" height="15"> USA</a> 
-                <a href="#"> 
-                    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132502/eflag.jpg" width="20" height="15"> England</a> 
-                <a href="#"> 
-                    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132500/bflag.jpg" width="20" height="15"> Brazil</a> 
-            </div> 
-        </div>
+<div class="dropdown"> 
+    <button class="dropbtn"> 
+        Country Flags 
+    </button> 
+      
+<div class="dropdown-content"> 
+<a href="#"> 
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200630132503/iflag.jpg" width="20" height="15"> India</a> 
+
+<a href="#"> 
+    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132504/uflag.jpg" width="20" height="15"> USA</a> 
+<a href="#"> 
+    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132502/eflag.jpg" width="20" height="15"> England</a> 
+<a href="#"> 
+    <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20200630132500/bflag.jpg" width="20" height="15"> Brazil</a> 
+</div> 
+</div>
 
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
