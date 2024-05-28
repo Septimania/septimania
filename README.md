@@ -1,5 +1,6 @@
 <details>
 <summary><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/A_large_blank_world_map_with_oceans_marked_in_blue.PNG" alt="Lang" height="64px"></summary>
+<pre>
 <p style="margin: 15px;" align="center">
   <a href="https://github.com/Septimania/septimania/blob/main/README_FR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_OC.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Occitania.svg/320px-Flag_of_Occitania.svg.png" alt="OC" height="32px"></a>
@@ -42,6 +43,7 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_TH.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/langfr-2880px-Flag_of_Thailand.svg.png" alt="TH" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_HI.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/langfr-2880px-Flag_of_India.svg.png" alt="HI" height="32px"></a>
 </p>
+</pre>
 </details>
 
 <p style="margin: 15px;" align="center">
