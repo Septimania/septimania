@@ -17,7 +17,7 @@
 </div> -->
 
 <div style="position: relative; display: inline-block; "> 
-    <button class="dropbtn"> 
+    <button style="background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; cursor: pointer; "> 
         Country Flags 
     </button> 
       
