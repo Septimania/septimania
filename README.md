@@ -31,20 +31,20 @@
   <a href="https://github.com/Septimania/septimania/blob/main/README_RO.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/RO.png" alt="RO" title="Română" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_SQ.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/SQ.png" alt="SQ" title="Shqip" height="32px"></a>
   <a href="https://github.com/Septimania/septimania/blob/main/README_TU.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/TU.png" alt="TU" title="Türkçe" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_EL.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/EL.png" alt="EL" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_RU.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/RU.png" alt="RU" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_BG.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/BG.png" alt="BG" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_UA.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/UA.png" alt="UA" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_BE.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/BE.png" alt="BE" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_MK.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/MK.png" alt="MK" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_SR.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/SR.png" alt="SR" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_AR.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/AR.png" alt="AR" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_IL.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/IL.png" alt="IL" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_JP.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/JP.png" alt="JP" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_ZH.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/ZH.png" alt="ZH" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_KO.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/KO.png" alt="KO" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_TH.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/TH.png" alt="TH" height="32px"></a>
-  <a href="https://github.com/Septimania/septimania/blob/main/README_HI.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/HI.png" alt="HI" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_EL.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/EL.png" alt="EL" title="Ελληνικά" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_RU.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/RU.png" alt="RU" title="Русский" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_BG.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/BG.png" alt="BG" title="Български" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_UA.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/UA.png" alt="UA" title="Українська" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_BE.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/BE.png" alt="BE" title="Беларуская" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_MK.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/MK.png" alt="MK" title="Македонски" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_SR.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/SR.png" alt="SR" title="Српски / srpski" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_AR.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/AR.png" alt="AR" title="العربية" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_IL.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/IL.png" alt="IL" title="עברית" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_JP.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/JP.png" alt="JP" title="日本語" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_ZH.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/ZH.png" alt="ZH" title="中文" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_KO.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/KO.png" alt="KO" title="한국어" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_TH.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/TH.png" alt="TH" title="ไทย" height="32px"></a>
+  <a href="https://github.com/Septimania/septimania/blob/main/README_HI.md"><img src="https://github.com/Septimania/septimania/blob/main/LANG/HI.png" alt="HI" title="हिन्दी" height="32px"></a>
 </p>
 </details>
 
