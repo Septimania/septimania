@@ -20,5 +20,5 @@ resource "github_repository" "septimania" {
   name = "septimania"
   description = "page de profil"
 
-  visibility = "public
+  visibility = "public"
 }
