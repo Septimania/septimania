@@ -1,4 +1,4 @@
-<link rel="preload" as="image" href="https://mondomaine.com/images/monimage.jpg" />
+<link rel="preload" as="image" href="https://github.com/Septimania/septimania/blob/main/LANG/UN.png" />
 
 <details>
 <summary>
