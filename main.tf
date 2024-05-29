@@ -1,4 +1,11 @@
 terraform {
+  backend "remote" {
+    hostname = "app.terraform.io"
+    organization = "LANGUEDOC"
+    workspaces {
+      name = "septimania"
+    }
+  }
   required_providers {
     github = {
       source  = "integrations/github"
