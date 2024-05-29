@@ -1,7 +1,7 @@
 <details>
 <summary>
   <picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/A_large_blank_world_map_with_oceans_marked_in_blue.PNG" alt="Lang" height="64px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/2560px-Flag_of_the_United_Nations.svg.png" alt="Lang" height="64px">
   </picture>
 </summary>
 <p style="margin: 15px;" align="center">
