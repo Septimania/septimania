@@ -1,7 +1,7 @@
 <details>
 <summary>
   <picture>
-    <img src="https://github.com/Septimania/septimania/blob/main/UN.png" alt="Lang" height="64px">
+    <img src="https://github.com/Septimania/septimania/blob/main/LANG/UN.png" alt="Lang" height="64px">
   </picture>
 </summary>
 <p style="margin: 15px;" align="center">
