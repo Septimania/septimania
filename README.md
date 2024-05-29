@@ -1,7 +1,9 @@
+<link rel="preload" as="image" href="https://mondomaine.com/images/monimage.jpg" />
+
 <details>
 <summary>
   <picture>
-    <img src="https://github.com/Septimania/septimania/blob/main/LANG/UN.png" alt="Lang" height="64px">
+    <img src="https://github.com/Septimania/septimania/blob/main/LANG/UN.png" alt="Lang" re height="64px">
   </picture>
 </summary>
 <p style="margin: 15px;" align="center">
