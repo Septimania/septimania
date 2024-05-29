@@ -1,7 +1,7 @@
 <details>
 <summary>
   <picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/1920px-Flag_of_the_United_Nations.svg.png" alt="Lang" height="64px">
+    <img src="https://github.com/Septimania/septimania/blob/main/UN.png" alt="Lang" height="64px">
   </picture>
 </summary>
 <p style="margin: 15px;" align="center">
