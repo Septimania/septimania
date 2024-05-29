@@ -18,7 +18,7 @@ provider "github" {}
 
 resource "github_repository" "septimania" {
   name = "septimania"
-  description = "page de profil"
+  description = "FRA: Page de profil OCC: Pàgina del profil"
 
   visibility = "public"
 }
