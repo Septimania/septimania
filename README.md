@@ -112,7 +112,9 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
+      subgraph LANGUEDOC-NITRO
       A Dir((<img src='https://iconscout.com/ms-icon-310x310.png' width='40' />)) --> B[LANGUEDOC-NITRO]
+      end
       A --> C[SEPTUFMANIE]
 ```
 
