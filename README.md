@@ -112,7 +112,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A[GARONNE ![Architecte](https://cdn-icons-png.flaticon.com/256/1388/1388548.png)] --> B[LANGUEDOC-NITRO]
+      A[ DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")] --> B[LANGUEDOC-NITRO]
       A --> C[SEPTUFMANIE]
 ```
 
