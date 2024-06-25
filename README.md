@@ -111,7 +111,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 </p>
 
 ```mermaid
-  graph TD LR
+  graph TD
       A[GARONNE] --> B[LANGUEDOC-NITRO]
       subgraph LANGUEDOC-NITRO
       B --> C[COMPAGNON]
