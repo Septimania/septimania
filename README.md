@@ -119,7 +119,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       end
       A --> E[SEPTUFMANIE]
 
-      style NITRO background-color:#f00
+      style NITRO background:#f00
 ```
 
 <p>
