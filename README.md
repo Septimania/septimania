@@ -119,20 +119,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       end
       A --> E[SEPTUFMANIE]
 
-      style NITRO color:#f00
-```
-
-```mermaid
-flowchart TB
-    c1-->a2
-    subgraph ide1 [one]
-    a1-->a2
-    end
-    
-    style c1 fill: lightgray
-    style a1 fill: lightgray
-    style a2 fill: lightgray
-    style ide1 fill: lightyellow
+      style NITRO fill: rgb(128, 0, 0)
 ```
 
 <p>
