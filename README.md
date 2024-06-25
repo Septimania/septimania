@@ -112,7 +112,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A[GARONNE] --> B[LANGUEDOC-NITRO]
+      A[GARONNE] --> B["LANGUEDOC-NITRO"]
       subgraph NITRO [LANGUEDOC-NITRO]
       B --> C[COMPAGNON]
       B --> D[ROVER]
