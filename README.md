@@ -117,9 +117,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> C[COMPAGNON]
       B --> D[ROVER]
       end
-      subgraph SEPTUFMANIE
       A --> E[SEPTUFMANIE]
-      end
 ```
 
 <p>
