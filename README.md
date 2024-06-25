@@ -112,7 +112,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A[GARONNE] --> B["<div>LANGUEDOC-NITRO</div>"]
+      A[GARONNE] --> B["![](https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png)  LANGUEDOC-NITRO"]
       subgraph NITRO [LANGUEDOC-NITRO]
       B --> C[COMPAGNON]
       B --> D[ROVER]
