@@ -109,6 +109,16 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://toppng.com/uploads/preview/mari-logo-rgb-foundry-mari-logo-1156286701534oyfve948.png" alt="mari" width="40" height="40"/>
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
+
+```mermaid
+  graph TD
+      A[Accueil] --> B[Salle des Serveurs]
+      B --> C[Bureau du Boss]
+      B --> D[Salle Secrète ?]
+      C --> E[Fin du Jeu]
+      D --> B
+```
+
 <p>
   Grâce aux ordinateurs portables LANGUEDOC-NITRO et SEPTUFMANIE. Sans parler du NAS GARONNE qui leur fournit un stockage colossal, on peut réaliser toutes sortes de tâches en lien avec l'informatique
   <br>
@@ -116,6 +126,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
   <br>
   Voici les liens vers leurs sites :
   <br>
+
   <div align="center">
     <table>
       <tbody>
