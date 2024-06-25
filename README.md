@@ -110,18 +110,6 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 <img src="https://www.versluis.com/wp-content/uploads/2021/02/CSP-Clip-Studio-Icon.png" alt="clip studio" width="40" height="40"/>
 </p>
 
-```mermaid
-  graph TD
-      A[GARONNE] --> B["LANGUEDOC-NITRO"]
-      subgraph NITRO [LANGUEDOC-NITRO]
-      B --> C[COMPAGNON]
-      B --> D[ROVER]
-      end
-      A --> E[SEPTUFMANIE]
-
-      style NITRO fill:#800
-```
-
 <p>
   Grâce aux ordinateurs portables LANGUEDOC-NITRO et SEPTUFMANIE. Sans parler du NAS GARONNE qui leur fournit un stockage colossal, on peut réaliser toutes sortes de tâches en lien avec l'informatique
   <br>
@@ -162,6 +150,17 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
     </table>
   </div>
 </p>
+```mermaid
+  graph TD
+      A[GARONNE] --> B["LANGUEDOC-NITRO"]
+      subgraph NITRO [LANGUEDOC-NITRO]
+      B --> C[COMPAGNON]
+      B --> D[ROVER]
+      end
+      A --> E[SEPTUFMANIE]
+
+      style NITRO fill:#800
+```
 <br/>
 <br/>
 <br/>
