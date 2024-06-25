@@ -112,11 +112,8 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A[Accueil] --> B[Salle des Serveurs]
-      B --> C[Bureau du Boss]
-      B --> D[Salle Secrète ?]
-      C --> E[Fin du Jeu]
-      D --> B
+      A[GARONNE] --> B[LANGUEDOC-NITRO]
+      A --> C[SEPTUFMANIE]
 ```
 
 <p>
