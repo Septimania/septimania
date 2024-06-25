@@ -122,6 +122,19 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       style NITRO color:#f00
 ```
 
+```{mermaid}
+flowchart TB
+    c1-->a2
+    subgraph ide1 [one]
+    a1-->a2
+    end
+    
+    style c1 fill: lightgray
+    style a1 fill: lightgray
+    style a2 fill: lightgray
+    style ide1 fill: lightyellow
+```
+
 <p>
   Grâce aux ordinateurs portables LANGUEDOC-NITRO et SEPTUFMANIE. Sans parler du NAS GARONNE qui leur fournit un stockage colossal, on peut réaliser toutes sortes de tâches en lien avec l'informatique
   <br>
