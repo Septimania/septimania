@@ -122,7 +122,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       style NITRO color:#f00
 ```
 
-```{mermaid}
+```mermaid
 flowchart TB
     c1-->a2
     subgraph ide1 [one]
