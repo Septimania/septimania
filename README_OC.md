@@ -120,11 +120,13 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
 
 ```mermaid
   graph TD
-      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONA</a>"] --> B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LENGADÒC-NITRO</a>"]
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONA</a>"]
       subgraph NITRO [LENGADÒC-NITRO]
+      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LENGADÒC-NITRO</a>"]
       B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPANYON</a>"]
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
+      A --> NITRO
       A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIA</a>"]
 
       style NITRO fill:#800
