@@ -122,7 +122,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
   graph TD
       A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONNE</a>"]
       subgraph NITRO [LANGUEDOC-NITRO]
-      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>"]
+      B[" ![]([image.png](https://cyclr.com/wp-content/uploads/2022/03/ext-550.png)) <a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>"]
       B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPAGNON</a>"]
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
