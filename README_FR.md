@@ -120,8 +120,9 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONNE</a>"] --> B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>"]
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONNE</a>"]
       subgraph NITRO [LANGUEDOC-NITRO]
+      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>"]
       B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPAGNON</a>"]
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
