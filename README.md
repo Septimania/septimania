@@ -159,7 +159,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> D[ROVER]
       end
       A --> E[SEPTUFMANIE]
-      DIR("<img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/> LANGUEDOC-NITRO")
+      DIR("<a href="https://languedocnitro.wixsite.com/languedoc-nitro"> LANGUEDOC-NITRO </a>")
 
       style NITRO fill:#800
 ```
