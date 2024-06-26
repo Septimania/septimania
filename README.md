@@ -153,13 +153,12 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
 
 ```mermaid
   graph TD
-      A[GARONNE] --> B["LANGUEDOC-NITRO"]
+      A[GARONNE] --> B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro"> LANGUEDOC-NITRO </a>"]
       subgraph NITRO [LANGUEDOC-NITRO]
       B --> C[COMPAGNON]
       B --> D[ROVER]
       end
       A --> E[SEPTUFMANIE]
-      DIR("<a href="https://languedocnitro.wixsite.com/languedoc-nitro"> LANGUEDOC-NITRO </a>")
 
       style NITRO fill:#800
 ```
