@@ -148,6 +148,19 @@ En resumit, coma desvolopaire passionat pel Lengadòc-Rosselhon, soi determinat 
     </table>
   </div>
 </p>
+
+```mermaid
+  graph TD
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONA</a>"] --> B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LENGADÒC-NITRO</a>"]
+      subgraph NITRO [LANGUEDOC-NITRO]
+      B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPANYON</a>"]
+      B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
+      end
+      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIA</a>"]
+
+      style NITRO fill:#800
+```
+
 <br/>
 <br/>
 <br/>
