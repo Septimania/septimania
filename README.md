@@ -126,7 +126,6 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
       A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIE</a>"]
-        DIR("<img src='https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png'; width='30' />")
 
       style NITRO fill:#800
 ```
