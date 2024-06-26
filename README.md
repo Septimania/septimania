@@ -159,6 +159,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> D[ROVER]
       end
       A --> E[SEPTUFMANIE]
+      DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' /> LANGUEDOC-NITRO")
 
       style NITRO fill:#800
 ```
