@@ -155,8 +155,8 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
   graph TD
       A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONNE</a>"] --> B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGUEDOC-NITRO</a>"]
       subgraph NITRO [LANGUEDOC-NITRO]
-      B --> C[COMPAGNON]
-      B --> D[ROVER]
+      B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPAGNON</a>"]
+      B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
       A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIE</a>"]
 
