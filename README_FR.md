@@ -125,6 +125,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">COMPAGNON</a>"]
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
+      A --> NITRO
       A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIE</a>"]
 
       style NITRO fill:#800
