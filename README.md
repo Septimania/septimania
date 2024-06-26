@@ -160,6 +160,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
       A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIE</a>"]
+      DIR("<img src='https://iconscout.com/ms-icon-310x310.png'; width='30' />")
 
       style NITRO fill:#800
 ```
