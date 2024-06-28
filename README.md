@@ -132,7 +132,7 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       style NITRO fill:#800
 ```
 
-```
+```mermaid
 graph LR
     subgraph ABC [ ]
         direction TB
