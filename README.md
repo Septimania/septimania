@@ -132,6 +132,26 @@ En résumé, en tant que développeur passionné par le Languedoc-Roussillon, je
       style NITRO fill:#800
 ```
 
+```
+graph LR
+    subgraph ABC [ ]
+        direction TB
+        A[Branche Main]
+        B[Création de branche pour le dev : ft/the/explication]
+        C[Création de pull request]
+    end
+    A --> B
+    B --Push--> C
+    C --> D{Les pipelines passent ?}
+    D --Oui--> E[On peut merge sur dev]
+    D --Non--> F[On fix]
+    E --Merge--> G[Dev]
+    G --> H{Les pipelines passent ?}
+    H --Oui--> I[On peut merge sur main]
+    H --Non--> F
+    I --Merge--> A
+```
+
 <br/>
 <br/>
 <br/>
