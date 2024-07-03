@@ -128,7 +128,7 @@ En resumen, como desarrollador apasionado por Languedoc-Rosellón, estoy decidid
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
       end
       A --> NITRO
-      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIE</a>"]
+      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANÍA</a>"]
 
       style NITRO fill:#800
 ```
