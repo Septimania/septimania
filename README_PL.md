@@ -116,41 +116,22 @@ Krótko mówiąc, jako programista z pasją do regionu Langwedocja-Roussillon, j
   <br>
   Oto linki do ich stron:
   <br>
-  <div align="center">
-    <table>
-      <tbody>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;" colspan="2">
-            <a href="https://synologygaronne.wixsite.com/synologygaronne">
-              <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
-              <br>
-              GARONNA
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;">
-            <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
-              <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              LANGWEDOCJA-NITRO
-            </a>
-          </td>
-           <td width="180px" align="center" style="text-align:center;">
-            <a href="https://septufmanie.wixsite.com/septufmanie">
-              <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              SEPTUFMANIA
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </p>
-<br/>
-<br/>
-<br/>
+
+```mermaid
+  graph TD
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">GARONNA</a>"]
+      subgraph NITRO [LANGWEDOCJA-NITRO]
+      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">LANGWEDOCJA-NITRO</a>"]
+      B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">TOWARZYSZ</a>"]
+      B --> D["<a href="https://languedocnitro.wixsite.com/rover">ROVER</a>"]
+      end
+      A --> NITRO
+      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">SEPTUFMANIA</a>"]
+
+      style NITRO fill:#800
+```
+
 <p>
   Dobrze jest być w stanie zrobić wiele rzeczy samemu, ale nie możemy zapominać, że w grupie siła.<br/>
   Dlatego tak ważne jest zaznajomienie się z lokalnie zainstalowanym oprogramowaniem biurowym, ale także z alternatywami, które umożliwiają pracę zespołową.<br/>
