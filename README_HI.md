@@ -116,41 +116,22 @@
   <br>
   यहां उनकी साइटों के लिंक हैं:
   <br>
-  <div align="center">
-    <table>
-      <tbody>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;" colspan="2">
-            <a href="https://synologygaronne.wixsite.com/synologygaronne">
-              <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
-              <br>
-              गैरोन
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;">
-            <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
-              <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              लैंगेडोक-नाइट्रो
-            </a>
-          </td>
-           <td width="180px" align="center" style="text-align:center;">
-            <a href="https://septufmanie.wixsite.com/septufmanie">
-              <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              सेप्टुफ़मैनिया
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </p>
-<br/>
-<br/>
-<br/>
+
+```mermaid
+  graph TD
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">गैरोन</a>"]
+      subgraph NITRO [लैंगेडोक-नाइट्रो]
+      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">लैंगेडोक-नाइट्रो</a>"]
+      B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">साथी</a>"]
+      B --> D["<a href="https://languedocnitro.wixsite.com/rover">रोवर</a>"]
+      end
+      A --> NITRO
+      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">सेप्टुफ़मैनिया</a>"]
+
+      style NITRO fill:#800
+```
+
 <p>
   अकेले कई काम कैसे करना है यह जानना अच्छी बात है, लेकिन हमें यह नहीं भूलना चाहिए कि एकता में ताकत है।<br/>
   यही कारण है कि स्थानीय स्तर पर स्थापित कार्यालय सॉफ़्टवेयर में महारत हासिल करना आवश्यक है, लेकिन ऐसे विकल्प भी हैं जो सहयोगात्मक रूप से काम करने की अनुमति देते हैं।<br/>
