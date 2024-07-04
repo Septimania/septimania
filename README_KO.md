@@ -116,41 +116,22 @@
   <br>
   해당 사이트에 대한 링크는 다음과 같습니다.
   <br>
-  <div align="center">
-    <table>
-      <tbody>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;" colspan="2">
-            <a href="https://synologygaronne.wixsite.com/synologygaronne">
-              <img src="https://static.wixstatic.com/media/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png/v1/fill/w_160,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2cee29_31ae9c2953a54ff388ed0791e702ede6~mv2.png" width="128" height="128"/>
-              <br>
-              가론
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td width="180px" align="center" style="text-align:center;">
-            <a href="https://languedocnitro.wixsite.com/languedoc-nitro">
-              <img src="https://static.wixstatic.com/media/8e943e_ffda711e2f67497db875ad20d70c81cd~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              랑그독 니트로
-            </a>
-          </td>
-           <td width="180px" align="center" style="text-align:center;">
-            <a href="https://septufmanie.wixsite.com/septufmanie">
-              <img src="https://static.wixstatic.com/media/9f8d77_a45ac70303364243a13a49791b768e98~mv2.png/v1/fill/w_161,h_161,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png" width="128" height="128"/>
-              <br>
-              셉터프매니아
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </p>
-<br/>
-<br/>
-<br/>
+
+```mermaid
+  graph TD
+      A["<a href="https://synologygaronne.wixsite.com/synologygaronne">가론</a>"]
+      subgraph NITRO [ラングドックニトロ]
+      B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">랑그독 니트로</a>"]
+      B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">동반자</a>"]
+      B --> D["<a href="https://languedocnitro.wixsite.com/rover">로버</a>"]
+      end
+      A --> NITRO
+      A --> E["<a href="https://septufmanie.wixsite.com/septufmanie">셉터프매니아</a>"]
+
+      style NITRO fill:#800
+```
+
 <p>
   혼자서 많은 일을 할 수 있는 방법을 아는 것도 좋지만, 단결할 때 힘이 있다는 것을 잊어서는 안 됩니다.<br/>
   이것이 바로 마스터 오피스 소프트웨어를 로컬에 설치하는 것뿐만 아니라 공동 작업을 가능하게 하는 대안도 필수적인 이유입니다.<br/>
