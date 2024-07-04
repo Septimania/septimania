@@ -122,7 +122,7 @@
 ```mermaid
   graph TD
       A["<a href="https://synologygaronne.wixsite.com/synologygaronne">การอนน์</a>"]
-      subgraph NITRO [ラングドックニトロ]
+      subgraph NITRO [ลองเกอด็อกไนโตร]
       B["<a href="https://languedocnitro.wixsite.com/languedoc-nitro">ลองเกอด็อกไนโตร</a>"]
       B --> C["<a href="https://languedocnitro.wixsite.com/compagnon">สหาย</a>"]
       B --> D["<a href="https://languedocnitro.wixsite.com/rover">โรเวอร์</a>"]
