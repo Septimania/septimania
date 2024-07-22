@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.9cm}\LARGE Warning}$$
+$$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.9cm}\Huge Warning}$$
 
 ${\color{#C40026} \sf{\LARGE SEPTIMANIA}}$
 
