@@ -52,6 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
+$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
 $$\color{#C40026}\textsf{\Large\&#x26A0;\Huge SEPTIMANIA}$$
 
 <p style="margin: 15px;" align="center">
