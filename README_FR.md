@@ -54,7 +54,7 @@
 
 <center>Centered text</center>
 
-$${\color{#C40026} \sf{SEPTIMANIA}}$$
+# $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
 
 <p style="margin: 15px;" align="center">
