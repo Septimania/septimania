@@ -54,25 +54,11 @@
 
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
-# Titre de votre projet
+<h1 align="center">
 
-![Texte centré coloré](centered-text.svg)
+# $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
-## Description du projet
-
-Ajoutez ici une description de votre projet.
-
-## Comment utiliser
-
-Expliquez comment utiliser votre projet ou votre code ici.
-
-## Contribution
-
-Instructions pour contribuer à votre projet, si applicable.
-
-## Licence
-
-Informations sur la licence de votre projet.
+</h1>
 
 <p align="center">
   <img src="https://render.githubusercontent.com/render/math?math={\color{#C40026}\Large\text{Votre texte LaTeX centré ici}}" alt="Texte LaTeX centré en couleur">
