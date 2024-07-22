@@ -54,11 +54,7 @@
 
 # $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
-# $$
-\begin{center}
-E = mc^2
-\end{center}
-$$
+# $${\begin{center} E = mc^2 \end{center}}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
