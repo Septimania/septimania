@@ -52,6 +52,8 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
+<code style="color : red">text</code>
+
 # ${\color{#C40026} \sf{SEPTIMANIA}}$
 
 <p style="margin: 15px;" align="center">
