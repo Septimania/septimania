@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{ΣΕΠΤΙΜΑΝΙΑ}}$$
+$$\color{#C40026}\textsf{\Huge ΣΕΠΤΙΜΑΝΙΑ}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Το Λανγκντόκ-Ρουσιγιόν είναι μια γαλλική περιοχή πλούσια σε ιστορία, πολιτισμό και υπέροχα τοπία. Αυτός είναι ο λόγος για τον οποίο είμαι ένας προγραμματιστής με πάθος για την περιοχή αυτή.<br />

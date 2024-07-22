@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{СЕПТИМАНИЈА}}$$
+$$\color{#C40026}\textsf{\Huge СЕПТИМАНИЈА}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">

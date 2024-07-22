@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{सेप्टिमनिया}}$$
+$$\color{#C40026}\textsf{\Huge सेप्टिमनिया}$$
 
 <p style="margin: 15px;" align="center">
 <div ign='center'>लैंगेडोक-रूसिलॉन एक फ्रांसीसी क्षेत्र है जो इतिहास, संस्कृति और शानदार परिदृश्यों से समृद्ध है। यही कारण है कि मैं इस क्षेत्र के प्रति उत्साही डेवलपर हूं।<br />

@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SETTIMANIA}}$$
+$$\color{#C40026}\textsf{\Huge SETTIMANIA}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">La Linguadoca-Rossiglione è una regione francese ricca di storia, cultura e paesaggi magnifici. Ecco perché sono uno sviluppatore appassionato di questa regione.<br />

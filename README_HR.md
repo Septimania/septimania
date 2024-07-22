@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SEPTIMANIJA}}$$
+$$\color{#C40026}\textsf{\Huge SEPTIMANIJA}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Languedoc-Roussillon je francuska regija bogate povijesti, kulture i veličanstvenih krajolika. Zbog toga sam programer koji strastveno voli ovu regiju.<br />

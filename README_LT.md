@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SEPTIMANIA}}$$
+$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Langedokas-Rusijonas yra Prancūzijos regionas, turtingas istorijos, kultūros ir nuostabių kraštovaizdžių. Štai kodėl esu kūrėjas, kuriam šis regionas kelia aistrą.<br />

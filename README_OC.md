@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $${\color{#C40026} \sf{SEPTIMANIA}}$$
+$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Lo Lengadòc-Rosselhon es una region francesa rica en istoria, en cultura e en paisatges magnifics. Es per aquò qu'es un desvolopaire passionat per aquela region.<br />
