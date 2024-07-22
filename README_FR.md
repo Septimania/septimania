@@ -52,7 +52,7 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $$\math{\color{#C40026} \sf{SEPTIMANIA}}$$
+# $$\center{\color{#C40026} \sf{SEPTIMANIA}}$$
 
 </p>
 
