@@ -54,8 +54,6 @@
 
 # ${\color{#C40026} \sf{SEPTIMANIA}}$
 
-<img src="https://arachnoid.com/latex/?equ=%24%7B%5Ccolor%7B%23C40026%7D%20%5Csf%7BSEPTIMANIA%7D%7D%24">
-
 <p style="margin: 15px;" align="center">
 <div align="center">Le Languedoc-Roussillon est une région française riche en histoire, en culture et en paysages magnifiques. C'est pourquoi je suis un développeur passionné par cette région.<br />
 
