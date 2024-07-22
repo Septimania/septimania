@@ -52,9 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-# $$\center{\color{#C40026} \sf{SEPTIMANIA}}$$
+# $${\color{#C40026} \sf{SEPTIMANIA}}$$
 
-$$
+# $$
 \begin{center}
 E = mc^2
 \end{center}
