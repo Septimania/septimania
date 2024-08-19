@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
+$$
+{{\color{#C40026}\textsf{\Huge SEPTIMANIA}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Languedoc-Roussillon er franskt svæði ríkt af sögu, menningu og stórkostlegu landslagi. Þess vegna er ég verktaki með ástríðu fyrir þessu svæði.<br />

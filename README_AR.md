@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge سبتمانيا}$$
+$$
+{{\color{#C40026}\textsf{\Huge سبتمانيا}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">لانغدوك روسيون هي منطقة فرنسية غنية بالتاريخ والثقافة والمناظر الطبيعية الرائعة. ولهذا السبب أنا مطور شغوف بهذه المنطقة.<br />

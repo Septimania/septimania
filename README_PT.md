@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
+$$
+{{\color{#C40026}\textsf{\Huge SEPTIMANIA}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Languedoque-Rossilhão é uma região francesa rica em história, cultura e paisagens magníficas. É por isso que sou um programador apaixonado por esta região.<br />

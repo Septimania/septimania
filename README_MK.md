@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge СЕПТИМАНИЈА}$$
+$$
+{{\color{#C40026}\textsf{\Huge СЕПТИМАНИЈА}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Лангедок-Русијон е француски регион богат со историја, култура и прекрасни пејзажи. Ова е причината зошто јас сум развивач страстен за овој регион.<br />

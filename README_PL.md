@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge SEPTYMANIA}$$
+$$
+{{\color{#C40026}\textsf{\Huge SEPTYMANIA}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Langwedocja-Roussillon to francuski region bogaty w historię, kulturę i wspaniałe krajobrazy. Właśnie dlatego jestem deweloperem z pasją do tego regionu.<br />

@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge СЕПТИМАНИЯ}$$
+$$
+{{\color{#C40026}\textsf{\Huge СЕПТИМАНИЯ}
+$$
 
 <p style="margin: 15px;" align="center">
 

@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge セプティマニア}$$
+$$
+{{\color{#C40026}\textsf{\Huge セプティマニア}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">ラングドック ルシヨン地方は、豊かな歴史、文化、雄大な風景に恵まれたフランスの地域です。私がこの地域に情熱を注ぐ開発者である理由はここにあります。<br />

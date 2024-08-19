@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
+$$
+{{\color{#C40026}\textsf{\Huge SEPTIMANIA}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Languedoc-Roussillon er en fransk region rig på historie, kultur og storslåede landskaber. Det er derfor, jeg er en udvikler med en passion for denne region.<br />

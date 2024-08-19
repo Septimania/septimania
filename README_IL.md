@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge ספטימניה}$$
+$$
+{{\color{#C40026}\textsf{\Huge ספטימניה}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">לנגדוק-רוסיון הוא אזור צרפתי עשיר בהיסטוריה, תרבות ונופים מרהיבים. זו הסיבה שאני מפתח שמתלהב מהאזור הזה.<br />

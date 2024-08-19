@@ -52,7 +52,9 @@
   <img src="https://github.com/Septimania/septimania/blob/main/Drapeau.png">
 </p>
 
-$$\color{#C40026}\textsf{\Huge СЭПТЫМАНІЯ}$$
+$$
+{{\color{#C40026}\textsf{\Huge СЭПТЫМАНІЯ}
+$$
 
 <p style="margin: 15px;" align="center">
 <div align="center">Лангедок-Русільён - французскі рэгіён з багатай гісторыяй, культурай і цудоўнымі краявідамі. Вось чаму я распрацоўшчык, захоплены гэтым рэгіёнам.<br />
