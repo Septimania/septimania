@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge سبتمانيا}
+{\color{#C40026}\Huge{\textsf{سبتمانيا}}}
 $$
 
 <p style="margin: 15px;" align="center">

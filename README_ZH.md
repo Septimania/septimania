@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge 赛普提曼尼亚}
+{\color{#C40026}\Huge{\textsf{赛普提曼尼亚}}}
 $$
 
 <p style="margin: 15px;" align="center">

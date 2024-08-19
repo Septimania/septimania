@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge セプティマニア}
+{\color{#C40026}\Huge{\textsf{セプティマニア}}}
 $$
 
 <p style="margin: 15px;" align="center">

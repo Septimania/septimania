@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge ΣΕΠΤΙΜΑΝΙΑ}
+{\color{#C40026}\Huge{\textsf{ΣΕΠΤΙΜΑΝΙΑ}}}
 $$
 
 <p style="margin: 15px;" align="center">

@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge सेप्टिमनिया}
+{\color{#C40026}\Huge{\textsf{सेप्टिमनिया}}}
 $$
 
 <p style="margin: 15px;" align="center">

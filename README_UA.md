@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge СЕПТIМАНІЯ}
+{\color{#C40026}\Huge{\textsf{СЕПТIМАНІЯ}}}
 $$
 
 <p style="margin: 15px;" align="center">

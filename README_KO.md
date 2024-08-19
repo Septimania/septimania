@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge 셉티마니아}
+{\color{#C40026}\Huge{\textsf{셉티마니아}}}
 $$
 
 <p style="margin: 15px;" align="center">

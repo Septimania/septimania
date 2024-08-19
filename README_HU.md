@@ -53,7 +53,7 @@
 </p>
 
 $$
-{{\color{#C40026}\textsf{\Huge SEPTIMANIA}
+{\color{#C40026}\Huge{\textsf{SEPTIMANIA}}}
 $$
 
 <p style="margin: 15px;" align="center">
