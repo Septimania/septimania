@@ -54,7 +54,9 @@
 
 $$\color{#C40026}\textsf{\Huge SEPTIMANIA}$$
 <p style="text-align: center;">
+  
   ${{\color{#C40026}\Huge{\textsf{SEPTIMANIA}}}}\$
+  
 </p>
 
 ${{\color{#C40026}\Huge{\textsf{SEPTIMANIA}}}}\$
