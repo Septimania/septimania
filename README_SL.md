@@ -103,7 +103,7 @@ Skratka, kot razvijalec s strastjo do regije Languedoc-Roussillon sem odločen u
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" alt="css" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" alt="javascript" width="40" height="40"/>
 <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/>
 <img src="https://www.altam.fr/wp-content/uploads/2024/01/autodesk-3ds-max-small-social-400.png" alt="3ds max" width="40" height="40"/>
